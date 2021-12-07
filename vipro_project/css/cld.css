@@ -1,0 +1,41 @@
+.cnt
+{
+    color: tomato;
+    margin-left:1000px;
+}
+.container-fluid
+{
+    background-color:grey;
+    height: 50px;
+}
+.container
+{
+
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.para
+{
+    font-size: large;
+}
+.ftr
+{
+    background-color:tomato;
+    height: 70px;
+    width: 100%;
+    padding-top: 20px;
+   
+    text-align: center;
+
+
+}
+.fot
+{
+    color:white;
+    font-size:large;
+    margin-right:70px;
+}
+    

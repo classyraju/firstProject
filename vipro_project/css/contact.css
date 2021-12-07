@@ -1,0 +1,55 @@
+.cnt
+{
+    color:tomato;
+    margin-left:1000px;
+}
+.container-fluid
+{
+    background-color:grey;
+    height: 50px;
+}
+.centre
+{
+   background-color: white;
+    height: 200px;
+
+}
+.centred
+{
+    color:blue;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container
+{
+    background-color:wheat;
+    height:240px;
+    width:30%;
+    margin-left:500px;
+}
+.btn-success
+{
+ margin-left: 130px;
+ margin-top:20px;
+}
+.ftr
+{
+    background-color:grey;
+    height: 70px;
+   
+    text-align: center;
+    padding-top: 20px;
+
+
+}
+.fot
+{
+    color:tomato;
+    font-size:large;
+    
+    margin-right:70px;
+    
+}
+    

@@ -1,0 +1,24 @@
+
+.container-fluid
+{
+   
+    height:80px;
+}
+.icon
+{
+    margin-top: 15px;
+    float:left;
+}
+.navbar-right
+{
+    font-size:large;
+   
+    padding-top:18px;
+
+}
+.gap
+{
+    color:blue;
+    margin-right:20px;
+   
+}

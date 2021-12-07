@@ -1,0 +1,18 @@
+.ftr
+{
+    background-color:blue;
+   
+    text-align: center;
+
+}
+.fot
+{
+    color:white;
+    font-size:large;
+    margin-right:70px;
+}
+.glyphicon-expand
+{
+    font-size:x-large;
+    color:red;
+}
