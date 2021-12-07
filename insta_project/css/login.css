@@ -1,0 +1,38 @@
+
+.container
+{
+    margin-left:25%;
+
+}
+#header
+{
+   background-color:salmon;
+   width: 50%;
+   height:60px;
+   padding-left:150px;
+  
+   
+   
+}
+
+#bottom
+{
+    color:white;
+    background-color:dimgray;
+    width:50%;
+    height:100px;
+    padding-left:30px;
+    padding-top:10px;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
